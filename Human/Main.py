@@ -35,7 +35,24 @@ class Human:
 
 
 
+Class SkeletalSystem:
+    def __init__(self, height, bone_density):
+	self.height = height
+	self.bone_density = bone_density
+	#self.skull_height = height * skull_proportion
+	#self.neck_height = height * neck_proportion
+	#self.torso_height = height * torso_proportion
+	#self.leg_height = height * leg_proportion
+	#self.foot_length = height * foot_proportion
+	#self.arm_length = height * arm_proportion
+	#self.hand_length = height * hand_proportion
+	#self.finger_length = height * finder_proportion
+	
+	
+	
+	
+	
 
-
-	pass
+	
+	
 
